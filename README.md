@@ -8,6 +8,12 @@
 $ npm install cylon cylon-raspi cylon-firmata cylon-gpio cylon-i2c
 ```
 
+### How To Connect with the HTTP API
+
+```bash
+$ npm install cylon-api-http
+```
+
 ## Connecting to Raspberry Pi GPIO
 
 Taken from [official Cylon.js For Raspberry Pi documentation](https://github.com/hybridgroup/cylon-raspi#cylonjs-for-raspberry-pi):
